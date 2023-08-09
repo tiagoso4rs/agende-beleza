@@ -1,5 +1,5 @@
 PROZ EDUCAÇÃO – GRUPO 8
-PROJETO SITE XXXXXX - PLANO DE NEGÓCIO
+PROJETO SITE AgendeBeleza - PLANO DE NEGÓCIO
 A proposta do serviço está baseada em proporcionar um elo entre prestadores de serviços no ramo da estética e beleza com seus clientes.
  
 Prestadores de serviço
