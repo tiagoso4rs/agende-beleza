@@ -1,3 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    width: 3vw;
+}
+
+header{
+    background-color: #30B8A8;
+    padding:4vw;
+    height: 5vh;
+}
+
+.header{
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    display: flex;
+    
+}
+
+ul{
+    display: flex;
+    align-self: end;
+    list-style: none;
+    gap: 10vw;
+}
+
 img{
     width: 10vw;
+}
+
+input{
+    width: 50vw;
+    height: 3vh;
+    border-radius: 20px;
+    border: 0px;
 }
