@@ -1,0 +1,15 @@
+.form-login{
+    background-color: rgb(228, 247, 239);
+    
+    padding-top: 40px;
+    padding-bottom: 45px;
+    padding-right: 80px;
+    padding-left: 80px;
+
+    margin-top: 250px;
+    margin-bottom: 400px;
+    margin-right: 500px;
+    margin-left: 500px;
+
+    border: 8px solid rgb(219, 228, 236);
+}
