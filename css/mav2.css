@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(250, 250, 250);
+    font-family: "Montserrat";
+    color: black;
+}
+
+footer {
+    display:flex; 
+    justify-content:center; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+   margin-left :0.625rem; 
+}
